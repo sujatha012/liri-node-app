@@ -6,10 +6,11 @@ _author_ __Sujatha__
 **Caution:**
 Please setup your own api keys to execute using dotenv plugin
 
-1. npm init -y
-2. npm install dotenv
+1. Clone this repo to your local & in terminal change it to the downloaded directory
+2. npm init -y
+3. npm install dotenv
 
-3. Run any **ONE** of the following command to test it out 
+4. Run any **ONE** of the following command to test it out 
 
 API | Command to Execute
 ----------- | -------------
