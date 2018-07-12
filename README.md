@@ -17,6 +17,7 @@ API | Command to Execute
 Twitter | node liri.js my-tweets
 Spotify | node liri.js spotify-this-song 'who am i'
 OMDB | node liri.js movie-this The Matrix
+**DEFAULT to SPOTIFY** | node liri.js do-what-it-says
 
 
 
